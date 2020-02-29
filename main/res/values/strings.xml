@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScavengerHunt</string>
+    <string name="rules">All answer and question are in Bahasa Indonesia, type it with small caps text\nYou could find the answer in Museum Geologi, Bandung</string>
+    <string name="start">start</string>
+    <string name="next">next</string>
+    <string name="showmap">Show me the museum</string>
+    <string name="congrats">You did it!</string>
+    <string name="checkanswer">Check Answer</string>
+    <string name="answers">Answer\nQuest 1: Meteorit Jatipengilon\nQuest 2:Belerang\nQuest 3: Kristal Ametis\nQuest 4: Stromatolit\nQuest 5: Ichtyosaurus ceramensis\nQuest 6: Homo sapiens, Meganthropus paleojavanicus\nQuest 7: Stegodon florensis</string>
+</resources>
